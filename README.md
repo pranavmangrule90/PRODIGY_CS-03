@@ -17,5 +17,5 @@ View Results: The script will display the strength of the password and provide f
 # Example
 Enter your password: P@ssw0rd123 Password Strength: Moderate Suggestions for improvement:
 
-**  Include at least one special character (e.g., !, @, #, $, etc.).
-**  Avoid common patterns like 'password' or '1234'.
+  Include at least one special character (e.g., !, @, #, $, etc.).
+  Avoid common patterns like 'password' or '1234'.
